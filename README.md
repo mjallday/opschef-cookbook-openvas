@@ -12,7 +12,7 @@ Requirements
 
 It's recommended to create a role and apply it to your node definition.
 
-Here's an exammple role to enable all things provided by this cookbook.
+Here's an example role to enable all things provided by this cookbook.
 This is the recommended method. Note: Including recipe openvas::nmap before
 openvas::server is required since it's a requirement.
 <pre><code>
